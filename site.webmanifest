@@ -1,0 +1,22 @@
+{
+  "name": "Nutri-Orgánicos del Campo",
+  "short_name": "Nutri-Orgánicos",
+  "description": "Bactribiol, bioestimulante orgánico para cacao y cultivos agrícolas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#117d41",
+  "lang": "es-EC",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
