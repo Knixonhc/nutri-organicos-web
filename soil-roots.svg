@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Suelo fértil y raíces activas">
+  <rect width="900" height="620" fill="#0f5f34"/>
+  <path d="M0 360c160-53 274-28 410-4 178 31 311 8 490-54v318H0z" fill="#6b4b2d"/>
+  <path d="M0 420c177-45 322-30 485-3 140 23 264 8 415-44v247H0z" fill="#46311f"/>
+  <g fill="none" stroke="#f4fff3" stroke-width="8" stroke-linecap="round">
+    <path d="M450 327v166"/>
+    <path d="M450 405c-42 18-71 46-88 87"/>
+    <path d="M450 432c41 14 76 39 105 77"/>
+    <path d="M450 376c-31 8-58 24-81 47"/>
+    <path d="M450 382c34 6 63 22 88 48"/>
+  </g>
+  <g fill="#fff">
+    <path d="M454 314c-9-79 36-151 112-188 43 68 7 157-72 184-13 4-27 6-40 4z"/>
+    <path d="M442 313c-16-58-61-98-128-104 18 69 68 107 128 104z"/>
+  </g>
+</svg>
