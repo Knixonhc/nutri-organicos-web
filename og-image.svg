@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Nutri-Orgánicos del Campo Bactribiol">
+  <rect width="1200" height="630" fill="#f7faf5"/>
+  <path d="M0 420c211-82 383-62 573-14 226 58 389 28 627-55v279H0z" fill="#117d41"/>
+  <image href="logo-verde.svg" x="72" y="76" width="710" height="140"/>
+  <text x="78" y="302" fill="#123524" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="900">BACTRIBIOL</text>
+  <text x="80" y="360" fill="#123524" font-family="Arial, Helvetica, sans-serif" font-size="32">Bioestimulante para cacao y cultivos agrícolas</text>
+  <text x="80" y="412" fill="#583987" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Asesoría técnica, suelo vivo y productividad sostenible</text>
+  <image href="bactribiol.svg" x="820" y="70" width="300" height="440"/>
+</svg>
