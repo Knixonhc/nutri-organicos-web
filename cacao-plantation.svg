@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Cultivo de cacao saludable">
+  <defs><linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#eff8ef"/><stop offset="1" stop-color="#dbeedb"/></linearGradient></defs>
+  <rect width="900" height="620" fill="url(#sky)"/>
+  <path d="M0 445c180-65 340-64 520-15 129 35 245 29 380-20v210H0z" fill="#7a5b35"/>
+  <path d="M0 477c214-67 415-45 570 1 113 33 216 15 330-32v174H0z" fill="#4f8c42"/>
+  <g fill="#117d41">
+    <path d="M152 379c-11-109 49-210 153-264 64 95 10 220-102 257-17 6-34 8-51 7z"/>
+    <path d="M504 380c-13-101 45-197 143-246 55 88 8 205-95 239-16 5-32 8-48 7z"/>
+    <path d="M714 386c-10-76 34-148 109-185 40 66 5 153-74 178-12 4-24 6-35 7z"/>
+  </g>
+  <g fill="#7b3f21">
+    <ellipse cx="304" cy="360" rx="30" ry="50" transform="rotate(12 304 360)"/>
+    <ellipse cx="640" cy="360" rx="28" ry="45" transform="rotate(-8 640 360)"/>
+    <ellipse cx="811" cy="386" rx="22" ry="38" transform="rotate(14 811 386)"/>
+  </g>
+</svg>
