@@ -122,7 +122,7 @@ h3 { color: var(--ink); font-size: 1.08rem; }
 .quick-tags span { padding: 10px 14px; border-radius: 999px; background: var(--green-soft); color: var(--green-dark); font-weight: 850; }
 
 .about-section, .split-section, .technical, .gallery-section { padding: clamp(44px, 6.5vw, 84px) clamp(18px, 5vw, 80px); }
-.about-section { background: linear-gradient(180deg, rgba(247,250,245,0.96), rgba(255,255,255,0.98)), url("cacao-plantation.webp") center/cover; }
+.about-section { background: linear-gradient(180deg, rgba(247,250,245,0.96), rgba(255,255,255,0.98)), url("cacao-plantation.svg") center/cover; }
 .section-heading { max-width: 940px; margin-bottom: 34px; }
 .mission-grid, .technical-grid, .benefit-columns, .dose-grid { display: grid; gap: 18px; }
 .mission-grid { grid-template-columns: repeat(3, 1fr); }
@@ -157,7 +157,7 @@ h3 { color: var(--ink); font-size: 1.08rem; }
 .benefit-card.accent { border-color: rgba(110,63,165,0.24); background: linear-gradient(180deg, #ffffff 0%, var(--purple-soft) 100%); }
 .benefit-card ul, .technical-grid ul { display: grid; gap: 12px; margin: 18px 0 0; padding-left: 20px; }
 
-.application { padding: clamp(44px, 6.5vw, 84px) clamp(18px, 5vw, 80px); background: linear-gradient(90deg, rgba(11,79,43,0.94), rgba(17,125,65,0.9)), url("soil-roots.webp") center/cover; color: var(--white); }
+.application { padding: clamp(44px, 6.5vw, 84px) clamp(18px, 5vw, 80px); background: linear-gradient(90deg, rgba(11,79,43,0.94), rgba(17,125,65,0.9)), url("soil-roots.svg") center/cover; color: var(--white); }
 .application .eyebrow, .application h2 { color: var(--white); }
 .dose-grid { grid-template-columns: repeat(3, 1fr); }
 .dose-grid div { display: grid; gap: 8px; min-height: 130px; padding: 26px; border: 1px solid rgba(255,255,255,0.22); border-radius: 8px; background: rgba(255,255,255,0.1); backdrop-filter: blur(6px); }
@@ -193,7 +193,7 @@ h3 { color: var(--ink); font-size: 1.08rem; }
   padding: 38px clamp(18px, 5vw, 80px) 18px;
   background:
     linear-gradient(135deg, rgba(7, 61, 36, 0.98), rgba(17, 125, 65, 0.96)),
-    url("soil-roots.webp") center/cover;
+    url("soil-roots.svg") center/cover;
   color: var(--white);
 }
 .footer-main {
