@@ -1,15 +1,16 @@
 # Nutri-Orgánicos del Campo
 
-Landing page estática para Nutri-Orgánicos del Campo y su producto Bactribiol.
+Sitio corporativo estático de Nutri Orgánicos del Campo y su producto Bactribiol.
 
 ## Contenido
 
-- `index.html`: página principal.
-- `styles.css`: estilos visuales y diseño responsive.
-- `script.js`: slider automático y animaciones de aparición.
+- `index.html`: contenido corporativo, producto, evidencia de campo e información técnica.
+- `styles.css`: sistema visual responsive basado en el Manual de Marca 1.2.
+- `script.js`: navegación móvil, animaciones de aparición y año automático.
+- `assets/images`: logotipos oficiales y fotografías reales del archivo de campo.
+- `assets/docs`: ficha técnica descargable de Bactribiol.
 - `robots.txt` y `sitemap.xml`: archivos base para indexación en Google.
-- `favicon.ico`, `favicon-32x32.png`, `apple-touch-icon.png`: íconos del sitio.
-- `.htaccess`: configuración recomendada para Apache/cPanel.
+- `favicon.svg` y `site.webmanifest`: identidad e instalación del sitio.
 
 ## Despliegue en cPanel
 
