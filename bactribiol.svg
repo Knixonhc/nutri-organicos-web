@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 760" role="img" aria-label="Envase de Bactribiol">
+  <defs><linearGradient id="bottle" x1="0" x2="1"><stop stop-color="#f3f5f3"/><stop offset=".48" stop-color="#fff"/><stop offset="1" stop-color="#dfe5df"/></linearGradient></defs>
+  <rect width="520" height="760" fill="#f7faf5"/>
+  <path d="M199 78h122v65H199z" fill="#fff" stroke="#ccd4cc" stroke-width="4"/>
+  <path d="M184 37h152c18 0 33 15 33 33v26H151V70c0-18 15-33 33-33z" fill="#fff" stroke="#cbd3cb" stroke-width="5"/>
+  <path d="M140 143h240c28 27 44 70 44 124v360c0 58-47 105-105 105H201c-58 0-105-47-105-105V267c0-54 16-97 44-124z" fill="url(#bottle)" stroke="#ccd4cc" stroke-width="5"/>
+  <rect x="116" y="246" width="288" height="322" rx="18" fill="#f1df62"/>
+  <rect x="116" y="503" width="288" height="65" rx="18" fill="#117d41"/>
+  <text x="260" y="377" text-anchor="middle" fill="#117d41" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="900">BACTRIBIOL</text>
+  <text x="260" y="417" text-anchor="middle" fill="#18442b" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">BIOESTIMULANTE FOLIAR Y SUELO</text>
+  <text x="260" y="446" text-anchor="middle" fill="#18442b" font-family="Arial, Helvetica, sans-serif" font-size="15">Regenerador de suelos</text>
+  <text x="260" y="546" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">CUIDADO</text>
+  <circle cx="260" cy="292" r="36" fill="#fff"/>
+  <path d="M260 303c-2-30 14-51 44-66-37 0-61 18-58 45 1 11 6 18 14 21zM252 304c-7-19-22-31-46-34 8 24 24 36 46 34z" fill="#117d41"/>
+</svg>
