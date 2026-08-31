@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 250" role="img" aria-label="Nutri-Orgánicos del Campo">
+  <rect x="28" y="28" width="200" height="200" rx="42" fill="#fff"/>
+  <path d="M64 178c22 27 106 28 133 1 0-28-24-47-52-43-9 1-17 4-24 9-7-5-16-8-25-9-28-3-32 18-32 42z" fill="#117d41"/>
+  <path d="M127 164c-5-48 19-88 80-123-66 0-112 32-106 82 1 19 10 33 26 41z" fill="#117d41"/>
+  <path d="M117 163c-7-31-30-56-78-61 17 42 43 62 78 61z" fill="#117d41"/>
+  <path d="M126 176c-5-57 16-101 80-135M114 159c-17-28-38-46-75-57" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <text x="270" y="107" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800">NUTRI-ORGÁNICOS</text>
+  <text x="270" y="175" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800">DEL CAMPO</text>
+  <text x="274" y="220" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="28">Por una agricultura más productiva y en armonía con la naturaleza</text>
+</svg>
