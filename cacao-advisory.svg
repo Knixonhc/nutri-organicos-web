@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Asesoría técnica agrícola">
+  <rect width="900" height="620" fill="#f7faf5"/>
+  <path d="M0 430c142-55 269-52 402-18 180 47 320 35 498-28v236H0z" fill="#dcebd4"/>
+  <path d="M134 420h190l-26 118H108z" fill="#117d41"/>
+  <path d="M616 376h156l-22 104H586z" fill="#583987"/>
+  <g fill="none" stroke="#117d41" stroke-width="14" stroke-linecap="round">
+    <path d="M214 405c-2-88 43-159 129-206"/>
+    <path d="M218 401c-34-55-77-85-136-91"/>
+    <path d="M671 360c-2-64 28-117 91-154"/>
+  </g>
+  <g fill="#117d41">
+    <path d="M347 199c-76 8-126 55-127 124 72 7 126-42 127-124z"/>
+    <path d="M82 310c21 63 69 95 134 87-22-58-69-88-134-87z"/>
+    <path d="M762 206c-55 8-91 43-92 94 53 4 91-32 92-94z"/>
+  </g>
+  <circle cx="465" cy="274" r="58" fill="#fff" stroke="#117d41" stroke-width="10"/>
+  <path d="M509 319l100 98" stroke="#117d41" stroke-width="18" stroke-linecap="round"/>
+</svg>
