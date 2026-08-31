@@ -186,7 +186,13 @@ details > div p:last-child, details > div ul:last-child { margin-bottom: 0; }
 .social-buttons strong { display: block; font-family: Montserrat, Arial, sans-serif; }
 
 .site-footer { display: grid; grid-template-columns: minmax(300px, 1fr) auto; gap: 36px; padding: 56px clamp(20px, 6vw, 96px) 24px; background: var(--forest); color: var(--white); }
-.footer-brand img { width: min(430px, 85vw); }
+.footer-brand img {
+  width: min(330px, 72vw);
+  height: auto;
+  max-height: 68px;
+  object-fit: contain;
+  object-position: left center;
+}
 .footer-brand p { max-width: 500px; margin: 18px 0 0; color: var(--sage); font-family: Montserrat, Arial, sans-serif; font-weight: 700; }
 .site-footer nav { display: flex; flex-wrap: wrap; gap: 12px 24px; align-content: start; justify-content: flex-end; font-family: Montserrat, Arial, sans-serif; font-size: 0.83rem; font-weight: 700; }
 .site-footer nav a:hover { color: var(--sage); }
